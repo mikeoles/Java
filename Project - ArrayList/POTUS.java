@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 
-public class Project4
+public class POTUS
 {
 	static final int INITIAL_CAP = 5;
 	public static void main( String args[] ) throws Exception
