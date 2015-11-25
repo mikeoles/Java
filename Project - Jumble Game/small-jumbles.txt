@@ -1,6 +1,0 @@
-atc
-otsp
-gdo
-atr
-arpt
-grof
